@@ -1,28 +1,26 @@
-# This is a large heading
+# Arvind Verma
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Hong Kong Island.
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+### Reading
+Three of my favourite books are:
 
-Here is `some code` in the middle of a sentence.
+- * 3 mistakes of my life * by Chetan Bhagat
+- * I don't read books * by Arvind Verma
+- * I prefer watching videos on youtube * by Arvind Verma
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I always dreamt about food
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Recently i ate Hunan Double Spicy Fish
+2. I love mutton biryani.
+3. Always think what to eat to become slim..:D
+
+### Contact
+
+The best way to get in touch with me (arvindcse.verma@gmail.com
+
