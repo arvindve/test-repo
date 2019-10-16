@@ -6,8 +6,8 @@ I Live in Hong Kong Island.
 
 ### Recent Learning
 - *Data Structure and Software Design on Edx*
-- *Mobile Cloud Services using Spring Framework*
-- *Unix Workbench*
+- *Mobile Cloud Services using Spring Framework on Coursera*
+- *Unix Workbench on Coursera*
 
 
 ### I want to start
