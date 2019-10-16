@@ -2,7 +2,7 @@
 
 ### Geography 
 
-I Live in Hong Kong Island.
+I Live in Hong Kong Island and it's a great place
 
 ### Recent Learning
 - *Data Structure and Software Design on Edx*
