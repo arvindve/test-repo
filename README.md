@@ -11,12 +11,11 @@ I Live in Hong Kong Island.
 
 
 ### I want to start
-
-## I want to start reading books.
+I want to start reading books.
 
 ### Food
 
-I love eating food and that's why my weight is 90 kg.
+I love eating food.
 
 - *Mutton Biryani* Indian
 - *Hunan Double Spicy Fish* by Hunan
